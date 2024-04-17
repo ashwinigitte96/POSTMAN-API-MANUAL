@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ash",
+    "job": "leader"
+  },
+  {
+    "name": "hash",
+    "job": "manager"
+  },
+  {
+    "name": "dash",
+    "job": "officer"
+  }
+]
